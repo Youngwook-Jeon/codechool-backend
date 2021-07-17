@@ -1,0 +1,1 @@
+INSERT IGNORE INTO exposures (id, type) VALUES (1, "Public"), (2, "Private");
